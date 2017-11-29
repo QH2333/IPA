@@ -1,12 +1,16 @@
-# IPA
+# IPA official website
 
-It is the source repository of the website of Information & Photography Association (IPA).
+This is the source repository of the website of Information & Photography Association (IPA).
 
-The website is still in development. Issues and pull requests are welcome.
+The development was started by YilinChen in 2014 and postponed in 2015 for complicated reasons.
+
+Luckily, the development has restarted, Issues and pull requests are welcome.
+
+:)
 
 ## About deploying
 
-**The guide assumes that you have installed and configured Ruby on Rails and PostgreSQL.**
+**This guide assumes that you have installed and configured Ruby on Rails and PostgreSQL.**
 
 **Manual creating the database for the website is needed.**
 
