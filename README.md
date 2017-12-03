@@ -1,6 +1,6 @@
 # IPA official website
 
-This is the source repository of the website of Information & Photography Association (IPA).
+This is the source repository of the website of Information & Photography Association (IPA), Wuxi No.1 High School.
 
 The development was started by YilinChen in 2014 and postponed in 2015 for complicated reasons.
 

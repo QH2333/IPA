@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.2', :engine => 'jruby', :engine_version => '9.0.0.0'
+ruby '2.3.3', :engine => 'jruby', :engine_version => '9.1.14.0'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -50,6 +50,7 @@ gem 'kaminari', '~> 0.16.1'
 gem 'videojs_rails', '~> 4.6.1'
 
 gem 'browsernizer', '~> 0.2.2'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
